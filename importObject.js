@@ -1,0 +1,1 @@
+const employeeObj = require("./exportObject");
